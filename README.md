@@ -1,2 +1,2 @@
 # Ollama
-Ollama Models ChatGPT local
+Ollama Models ChatGPT locals
